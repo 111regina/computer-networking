@@ -1,8 +1,8 @@
 # udp_client.py
 # 客户端UDP文件传输程序
 # 运行环境：
-# - Python 3.x
-# - 操作系统：Windows, Linux, macOS
+# - Python 3.13.0
+# - 操作系统：Windows, Linux
 # 配置选项：
 # - 服务器IP地址和端口号（从命令行参数传入）
 # - 需要发送的文件路径（从命令行参数传入）
